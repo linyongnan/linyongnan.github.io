@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Linyong Nan (南林甬)"
   avatar           : "profile.png"
-  bio              : "Master Student at Columbia University"
-  location         : "New York, NY"
+  bio              : "PhD Student at Yale University"
+  location         : "New Haven, CT"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=YvocT5UAAAAJ&hl=en"
-  email            : "ln2401@columbia.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=b-HaNvYAAAAJ&hl=en"
+  email            : "linyong.nan@yale.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
