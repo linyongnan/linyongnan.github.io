@@ -11,12 +11,15 @@ redirect_from:
 About me
 =====
 
-I am a Ph.D. student in the Computer Science Department at [Yale University](https://cpsc.yale.edu/), advised by Prof. [Dragomir Radev](http://www.cs.yale.edu/homes/radev/). I obtained my M.S. in Computer Science at [Columbia University SEAS](https://engineering.columbia.edu/), advised by Prof. [Michael Collins](http://www.cs.columbia.edu/~mcollins/). My research interests include the following:
+I am a Ph.D. student in the Computer Science Department at [Yale University](https://cpsc.yale.edu/), advised by Prof. [Dragomir Radev](http://www.cs.yale.edu/homes/radev/). I obtained my M.S. in Computer Science at [Columbia University SEAS](https://engineering.columbia.edu/), advised by Prof. [Michael Collins](http://www.cs.columbia.edu/~mcollins/). 
 <!-- (details of my past research can be found [here](https://linyongnan.github.io/research/)): -->
 
-* **Natural language processing**, with particular interests in high-fidelity data-to-text generation, semantic parsing, language modeling, and transfer learning across domains and languages.
-
-* Applying deep learning methods to **healthcare and biotechnology**, in particular, I have worked on medical image analysis and protein folding problem (3D structure prediction) using deep learning.
+* I'm mainly interested in **natural language processing**, particularly the following topics:
+  * High-fidelity data-to-text generation
+  * Semantic parsing, question answering and logical reasoning
+  * Language modeling
+  * Neural-Symbolic learning
+  * Transfer learning across domains and languages
 
 <!-- * **Adversarial machine learning, robustness and interpretability** of machine learning systems. -->
 
