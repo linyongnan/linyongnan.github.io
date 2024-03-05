@@ -25,7 +25,7 @@ Before Yale, I obtained my M.S. in Computer Science at [Columbia University SEAS
 Recent News
 =====
 _____
-[03/2024] Area Chair for ACL Rolling Review (ARR), 2023-Present
+[03/2024] Area Chair for ACL Rolling Review (ARR), 2023-Present\
 [10/2023] 3 papers accepted to EMNLP 2023.
 
 
