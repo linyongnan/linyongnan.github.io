@@ -12,15 +12,16 @@ About me
 =====
 _____
 
-Hello there! My name is Linyong Nan, and I'm currently in my final-year of Ph.D. studies in Computer Science at [Yale University](https://cpsc.yale.edu/). I have the pleasure of working under the guidance of Prof. [Arman Cohan](https://armancohan.com/).
 
-My research explores the dynamic field of text generation from multi-modal knowledge sources. These sources include texts, web tables, databases, knowledge graphs, images and more. I've delved into several exciting topics in this field: **Augmented LLMs/Agents** (like RAG and tool-augmented LLMs), **Question Answering** from tables/databases, **Code Generation**, **Data-to-Text** and **Summarization**. 
+I am a Senior AI Research Scientist at Zoom, where I work on foundation models, multimodal AI, and agentic AI, with a focus on building systems that deliver strong real world performance.
 
-A pivotal aspect of my work is enhancing the **faithfulness** and **reliability** of LLMs/Agents augmented with retrieval and tools. This is particularly crucial for tasks that require the retrieval of extensive, often time-sensitive knowledge from verified sources and are reasoning intensive. I'm particularly drawn to the neural-symbolic approach for achieving these enhancements, which involve generating formal language (code) as intermediate steps. This allows for greater transparency in how LLMs perform information retrieval, reasoning and aggregation, ultimately **fostering human trust in the generated content**. 
+My work centers on advancing Zoom’s federated AI systems. I lead system design and execution in close collaboration with researchers and engineers across teams, contributing to work that achieved state of the art results on both Humanity’s Last Exam and DeepSearchQA, two challenging benchmarks for evaluating frontier AI reasoning, retrieval, and generalization. [[HLE blog]](https://www.zoom.com/en/blog/humanitys-last-exam-zoom-ai-breakthrough/) [[Federated AI blog]](https://www.zoom.com/en/blog/zoom-ai-redefining-agentic-federated-intelligence/)
 
-My journey at Yale began under the mentorship of the remarkable Prof. [Dragomir Radev](http://www.cs.yale.edu/homes/radev/), who sadly is no longer with us. Drago was the one who recognized and nurtured my passion for NLP research, bringing me into the Ph.D. program. During my first three years at Yale, Drago provided me with invaluable guidance, warmth, unwavering support, and inspiration that have deeply influenced my academic and personal growth. Reflecting on those transformative years, my heart is filled with deep gratitude for Drago. His influence extends far beyond the academic, touching the very core of who I am today. I am profoundly grateful for his wisdom, kindness, and the indelible mark he left on my life and career.
+I am particularly interested in hard problems at the system level, where modeling choices, infrastructure design, and team execution intersect. I enjoy turning complex research ideas into robust, scalable systems, and translating them into results that matter in practice.
 
-Before Yale, I obtained my M.S. in Computer Science at [Columbia University SEAS](https://engineering.columbia.edu/), advised by Prof. [Michael Collins](http://www.cs.columbia.edu/~mcollins/). My undergraduate years were spent at the [College of William & Mary](https://www.wm.edu/), where I graduated *Summa cum laude* in 2018 with double majors in Mathematics and Computer Science.
+I developed this interest during my doctoral training at Yale University. My journey at Yale began under the mentorship of the late Prof. [Dragomir Radev](http://www.cs.yale.edu/homes/radev/), who recognized and nurtured my interest in NLP research and brought me into the PhD program. During my early years at Yale, he provided invaluable guidance and support that shaped my academic direction and growth. In my final year, I was fortunate to be advised by Prof. [Arman Cohan](https://armancohan.com/), who stepped into this role during a period of transition with thoughtfulness and dedication. His insightful feedback, patience, and commitment to research and mentorship were instrumental in helping me navigate challenges and complete my doctoral work.
+
+Before Yale, I received my MS in Computer Science from Columbia University SEAS, where I was advised by Prof. [Michael Collins](http://www.cs.columbia.edu/~mcollins/). I completed my undergraduate studies at the College of William and Mary, graduating *Summa cum laude* in 2018 with double majors in Mathematics and Computer Science. These earlier experiences laid a strong foundation for my later work in machine learning and natural language processing.
 
 Recent News
 =====
@@ -33,11 +34,11 @@ Selected Work
 =====
 _____
 
-**For a full list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=b-HaNvYAAAAJ&hl=en)**. 
+**For a full list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=dby3OecAAAAJ&hl=en)**. 
 
 * [On Evaluating the Integration of Reasoning and Action in LLM Agents with Database Question Answering](https://arxiv.org/abs/2311.09721) \
 **Linyong Nan**, Ellen Zhang, Weijin Zou, Yilun Zhao, Wenfei Zhou, Arman Cohan. \
-*ArXiv 2023.*
+*Findings of the Association for Computational Linguistics: NAACL 2024*
 
 
 * [Enhancing Few-shot Text-to-SQL Capabilities of Large Language Models: A Study on Prompt Design Strategies](https://aclanthology.org/2023.findings-emnlp.996.pdf) \
